@@ -61,6 +61,6 @@ code) and mark Status as Pass or Fail.
 Where Actual and Expected disagree, that is a candidate defect. File it as
 a GitHub issue using the bug report template, then list it here.
 
-| Issue link | Linked test case | Short title | Severity | Priority |
+| **Issue link** | **Linked test case** | **Short title** | **Severity** | **Priority** |
 |---|---|---|---|---|
-| | | | | |
+| #<issue-number> | TC-7 | Priority 6 is incorrectly accepted as valid | Medium | High |
