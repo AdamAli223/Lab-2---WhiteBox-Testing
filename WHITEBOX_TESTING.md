@@ -1,7 +1,7 @@
 # White-Box Test Suite: check_task()
 
-Testers (pair): <name 1>, <name 2>
-Date: <date>
+Testers (pair): <Gan Jeng Jie>, <Wan Qistina>, <Ahmad Adam Ali>, <Sathineswary Saravanesvaran>>
+Date: <28 September 2026>
 File under test: `whitebox_target.py`, function `check_task(priority, hours)`
 
 ## 1. Control flow
