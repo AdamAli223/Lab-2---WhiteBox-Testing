@@ -63,4 +63,4 @@ a GitHub issue using the bug report template, then list it here.
 
 | **Issue link** | **Linked test case** | **Short title** | **Severity** | **Priority** |
 |---|---|---|---|---|
-| [#<issue-number>](https://github.com/AdamAli223/Lab-2---WhiteBox-Testing/issues/2) | TC-7 | Priority 6 is incorrectly accepted as valid | Medium | High |
+| [#<issue-number>](https://github.com/AdamAli223/Lab-2---WhiteBox-Testing/issues/2) | TC-7 | Priority 6 is incorrectly accepted as valid | Major | Medium |
