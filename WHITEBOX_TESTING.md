@@ -1,6 +1,6 @@
 # White-Box Test Suite: check_task()
 
-Testers (pair): <Gan_Jeng_Jie>, <Wan_Qistina>, <Ahmad_Adam_Ali>, <Sathineswary_Saravanesvaran>
+Testers (pair): Gan Jeng Jie, Wan Qistina, Ahmad Adam Ali, Sathineswary Saravanesvaran
 Date: <28 September 2026>
 File under test: `whitebox_target.py`, function `check_task(priority, hours)`
 
